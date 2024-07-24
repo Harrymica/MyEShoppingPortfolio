@@ -1,0 +1,1 @@
+This website is a sample of an ecommerce website with basic crud operations such as Create delete, update users or products using Blazor server and C#. you can check or follow my linkedIn page "www.linkedin.com/in/chidubem-michael-2a5b88295"  
